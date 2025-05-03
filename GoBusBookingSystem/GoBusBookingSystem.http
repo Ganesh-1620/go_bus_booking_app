@@ -1,0 +1,6 @@
+@GoBusBookingSystem_HostAddress = http://localhost:5062
+
+GET {{GoBusBookingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
